@@ -1,16 +1,13 @@
-## Hi there 👋
+ Hi, I'm Charan 👋
 
-<!--
-**Charan-K-Patil/Charan-K-Patil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Data Scientist & AI/ML Engineer | Python, NLP, LangChain, RAG
 
-Here are some ideas to get you started:
+I build AI/ML systems end-to-end — from published research to production-style GenAI applications.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔬 Published research: Peer-reviewed comparative analysis of ensemble ML models (93.52% accuracy) — [IJSREM 2026]( https://www.doi.org/10.55041/IJSREM64123)
+
+🤖 Featured project: Multi-agent Banking Chatbot using LangChain, LangGraph, RAG, and FastAPI
+
+📊 Also building: ML prediction systems, full-stack applications
+
+📫 Reach me: charankpatil@gmail.com | [LinkedIn](https://www.linkedin.com/in/charan-k-patil)
